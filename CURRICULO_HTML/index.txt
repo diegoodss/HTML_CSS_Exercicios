@@ -1,0 +1,53 @@
+<html>
+
+    <head>
+        <title>hello word</title>
+        <link rel="stylesheet" href="style.css">
+    <head>
+
+    <body>    
+        <h1>Perfil<h1>
+
+        <h2>Desenvolvedor</h2>
+
+
+
+        <img src = 'foto.jpg' width="500">
+        <br />
+        <br />
+        <br />
+
+        <div>
+
+            <h3>SOBRE MIM </h3><br>
+
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo blanditiis deleniti officia est unde? Aliquid rem eveniet commodi, suscipit nisi debitis velit ab fugit ipsam laborum iure facere repellat! Earum.
+            </p>
+            
+        </div>
+
+
+        
+            <h4>Detalhes</h4>  
+
+    <p id="negrito">
+        Nome:
+    </p> 
+
+    <p>Diego </p>
+    
+    
+    <p id="negrito"> Idade: </p>
+
+    <p>19</p>
+
+    <p  id="negrito">Localização:   </p>   
+
+    <p>Campo Grande</p>
+
+
+    <img id="logo" src = 'image.png' width="220">
+       
+    <body>   
+<html>
